@@ -1,8 +1,4 @@
-#odpowiedzi na pytania ze skryptu:
-# 1.Wysokość pojedynczej kondygnacji, obliczonej na podstawie wysokości budynku z
-# ALS i parametru liczby kondygnacji z BDOT wynosi średnio 3,7m
-# 2.Rozkład odchylenia standardowego dla wysokości budynków obliczonych z danych
-# ALS za pomocą Zonal Statistic as Table: Std. Dev wynosi 3,14m
+#Generowanie produktów pochodnych i modeli 3D na podstawie chmury punktów
 
 import numpy as np
 import laspy
